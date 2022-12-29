@@ -11,5 +11,8 @@ A couple of wallpapers I made that are free to use.
 ### Korangar (Synth)
 ![korangar synth](korangar_synth.png)
 
-### Korangar (Vapor) 
+### Korangar (Vapor)
 ![korangar vapor](korangar_vapor.png)
+
+### Rusty (Generated using [oxidize-your-screen](https://ve5li.github.io/))
+![rusty](rusty.png)
