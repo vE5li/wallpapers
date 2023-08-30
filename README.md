@@ -16,3 +16,6 @@ A couple of wallpapers I made that are free to use.
 
 ### Rusty (Generated using [oxidize-your-screen](https://ve5li.github.io/))
 ![rusty](rusty.png)
+
+### Hatsune Miku (Image from [Reddit](https://www.reddit.com/r/Vocaloid/comments/dbpdf4/hatsune_miku_minimalist/))
+![hatsune miku](hatsune_miku.png)
