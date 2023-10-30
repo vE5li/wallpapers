@@ -11,6 +11,9 @@ A couple of wallpapers I made that are free to use.
 ### Korangar (Synth)
 ![korangar synth](korangar_synth.png)
 
+### Korangar (Colorful)
+![korangar colorful](korangar_colorful.png)
+
 ### Korangar (Vapor)
 ![korangar vapor](korangar_vapor.png)
 
